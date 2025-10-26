@@ -24,7 +24,7 @@ const Navigation = () => {
           <Link to="/" className="flex items-center space-x-2 group">
             <div className="w-12 h-12 flex items-center justify-center transition-transform duration-300 group-hover:scale-105">
               {/* <span className="text-2xl font-bold text-primary-foreground">SS</span> */}
-              <img src="./src/assets/logo.png" alt="Saini Son"/>
+              <img src="/logo.png" alt="Saini Son"/>
             </div>
             <div className="hidden sm:block">
               <h1 className="text-xl font-bold text-foreground">Saini Son</h1>
