@@ -17,7 +17,7 @@ const Footer = () => {
               </div>
               <div>
                 <h3 className="text-lg font-bold text-foreground">Saini Son</h3>
-                <p className="text-xs text-muted-foreground">Progressive Agriculture</p>
+                {/* <p className="text-xs text-muted-foreground">Progressive Agriculture</p> */}
               </div>
             </div>
             <p className="text-sm text-muted-foreground mb-4">
