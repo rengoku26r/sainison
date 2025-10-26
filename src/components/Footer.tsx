@@ -12,12 +12,12 @@ const Footer = () => {
           <div>
             <div className="flex items-center space-x-2 mb-4">
               <div className="w-10 h-10 flex items-center justify-center">
-                <img src="./components/logo.png" alt="Saini Son"/>
+                <img src="./src/components/logo.png" alt="Saini Son"/>
                 {/* <span className="text-lg font-bold text-primary-foreground">SS</span> */}
               </div>
               <div>
                 <h3 className="text-lg font-bold text-foreground">Saini Son</h3>
-                {/* <p className="text-xs text-muted-foreground">Progressive Agriculture</p> */}
+                <p className="text-xs text-muted-foreground">Progressive Agriculture</p>
               </div>
             </div>
             <p className="text-sm text-muted-foreground mb-4">
