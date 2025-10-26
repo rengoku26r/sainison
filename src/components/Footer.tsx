@@ -12,7 +12,7 @@ const Footer = () => {
           <div>
             <div className="flex items-center space-x-2 mb-4">
               <div className="w-10 h-10 flex items-center justify-center">
-                <img src="./src/assets/logo.png" alt="Saini Son"/>
+                <img src="./components/logo.png" alt="Saini Son"/>
                 {/* <span className="text-lg font-bold text-primary-foreground">SS</span> */}
               </div>
               <div>
